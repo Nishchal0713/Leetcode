@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishchal0713/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishchal0713/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Nishchal0713/Leetcode/tree/master/0278-first-bad-version) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nishchal0713/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
@@ -16,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishchal0713/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishchal0713/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nishchal0713/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
