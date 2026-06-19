@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishchal0713/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishchal0713/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishchal0713/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Nishchal0713/Leetcode/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nishchal0713/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishchal0713/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishchal0713/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishchal0713/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nishchal0713/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Nishchal0713/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishchal0713/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
