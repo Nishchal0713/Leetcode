@@ -1,32 +1,35 @@
+// class Solution {
+//     public int[] twoSum(int[] nums, int target) {
+//         int retu[] =new int[2];
+//         for(int i=0;i<nums.length;i++)
+//         {
+//             for(int j=i+1;j<nums.length;j++)
+//             {
+//                 if(nums[i]+nums[j]==target)
+//                 {
+//                     retu[0]=i;
+//                     retu[1]=j;
+//                     break;
+//                 }
+//             }
+//         }
+//         return retu;
+//     }
+// }
+import java.util.*;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        // int x[]=new int[2];
-        // for(int i=0;i<nums.length-1;i++)
-        // {
-        //     for(int j=i+1;j<nums.length;j++){
-        //     if(nums[i]+nums[j]==target)
-        //     {
-        //         x[0]=i;
-        //         x[1]=j;
-        //         return x;
-        //     }
-        //     }
-        // }
-        // return x;
-        int x[]=new int[2];
-        int j=0;
-        while(x[0]==0 && x[1]==0)
-        {
-            j++;
-            for(int i=0;i<nums.length-j;i++)
-            {
-                if(nums[i]+nums[i+j]==target)
-                {
-                    x[0]=i;
-                    x[1]=i+j;
-                }
+        Map<Integer, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];
+
+            if (map.containsKey(complement)) {
+                return new int[]{map.get(complement),i};
             }
-        }
-        return x;
+            map.put(nums[i],i);
+            }
+            return null;
     }
 }
