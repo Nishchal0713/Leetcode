@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nishchal0713/Leetcode/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishchal0713/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nishchal0713/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishchal0713/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
