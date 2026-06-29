@@ -5,12 +5,11 @@ class Solution {
         {
             d=x%10;
             if (sum > Integer.MAX_VALUE / 10 ||
-                (sum == Integer.MAX_VALUE / 10 && d > 7))
+                (sum == Integer.MAX_VALUE / 10 && d > 7) ||
+                sum < Integer.MIN_VALUE / 10 ||
+                (sum == Integer.MIN_VALUE / 10 && d < -8)) {
                 return 0;
-
-            if (sum < Integer.MIN_VALUE / 10 ||
-                (sum == Integer.MIN_VALUE / 10 && d < -8))
-                return 0;
+            }
             sum=(sum*10)+d;
             x=x/10;
         }
