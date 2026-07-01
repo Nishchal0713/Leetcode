@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Nishchal0713/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/Nishchal0713/Leetcode/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Nishchal0713/Leetcode/tree/master/0561-array-partition) |
+| [1603-design-parking-system](https://github.com/Nishchal0713/Leetcode/tree/master/1603-design-parking-system) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nishchal0713/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1603-design-parking-system](https://github.com/Nishchal0713/Leetcode/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
