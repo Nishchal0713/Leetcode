@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Nishchal0713/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0561-array-partition](https://github.com/Nishchal0713/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishchal0713/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/Nishchal0713/Leetcode/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nishchal0713/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0867-transpose-matrix) |
 ## Matrix
@@ -94,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishchal0713/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/Nishchal0713/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Nishchal0713/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Nishchal0713/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Nishchal0713/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/Nishchal0713/Leetcode/tree/master/1603-design-parking-system) |
