@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Nishchal0713/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishchal0713/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nishchal0713/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Nishchal0713/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
