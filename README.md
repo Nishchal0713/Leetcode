@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishchal0713/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishchal0713/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishchal0713/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Nishchal0713/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nishchal0713/Leetcode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/Nishchal0713/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0561-array-partition](https://github.com/Nishchal0713/Leetcode/tree/master/0561-array-partition) |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nishchal0713/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nishchal0713/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Nishchal0713/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nishchal0713/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nishchal0713/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Nishchal0713/Leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Nishchal0713/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nishchal0713/Leetcode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Nishchal0713/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishchal0713/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nishchal0713/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Nishchal0713/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nishchal0713/Leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Nishchal0713/Leetcode/tree/master/0561-array-partition) |
 | [1603-design-parking-system](https://github.com/Nishchal0713/Leetcode/tree/master/1603-design-parking-system) |
 ## Design
