@@ -3,15 +3,14 @@ class Solution {
         HashMap<Integer,Integer> hm = new HashMap<>();
         for(int i=0;i<nums.length;i++)
         {
-            int n=nums[i];
-            if(hm.containsKey(n))
+            if(hm.containsKey(nums[i]))
             {
-                int prev=hm.get(n);
-                hm.put(n,prev+1);
+                int prev=hm.get(nums[i]);
+                hm.put(nums[i],prev+1);
             }
             else
             {
-                hm.put(n,1);
+                hm.put(nums[i],1);
             }
         }
         for(int i: hm.keySet())
