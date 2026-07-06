@@ -5,8 +5,7 @@ class Solution {
         {
             if(hm.containsKey(nums[i]))
             {
-                int prev=hm.get(nums[i]);
-                hm.put(nums[i],prev+1);
+                hm.put(nums[i],hm.get(nums[i])+1);
             }
             else
             {
