@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishchal0713/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Nishchal0713/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nishchal0713/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/Nishchal0713/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0561-array-partition](https://github.com/Nishchal0713/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishchal0713/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Nishchal0713/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -148,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Nishchal0713/Leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Nishchal0713/Leetcode/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
