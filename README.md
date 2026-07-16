@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nishchal0713/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Nishchal0713/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nishchal0713/Leetcode/tree/master/0242-valid-anagram) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nishchal0713/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishchal0713/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishchal0713/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Nishchal0713/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nishchal0713/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Nishchal0713/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nishchal0713/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Graph Theory
 |  |
