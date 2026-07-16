@@ -21,10 +21,7 @@ class Solution {
     }
     public void inorder(TreeNode root)
     {
-        if(root==null)
-        {
-            return;
-        }
+        if(root==null) return;
         count++;
         inorder(root.left);
         inorder(root.right);
