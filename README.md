@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nishchal0713/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nishchal0713/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishchal0713/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishchal0713/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishchal0713/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nishchal0713/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Nishchal0713/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishchal0713/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nishchal0713/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Nishchal0713/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
