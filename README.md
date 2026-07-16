@@ -166,16 +166,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nishchal0713/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nishchal0713/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nishchal0713/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nishchal0713/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Nishchal0713/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishchal0713/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Nishchal0713/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nishchal0713/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
