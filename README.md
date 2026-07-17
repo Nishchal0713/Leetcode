@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nishchal0713/Leetcode/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Nishchal0713/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishchal0713/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nishchal0713/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Nishchal0713/Leetcode/tree/master/0509-fibonacci-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nishchal0713/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Nishchal0713/Leetcode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Nishchal0713/Leetcode/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishchal0713/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nishchal0713/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
