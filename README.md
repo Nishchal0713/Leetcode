@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishchal0713/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishchal0713/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Nishchal0713/Leetcode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Nishchal0713/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nishchal0713/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nishchal0713/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Nishchal0713/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nishchal0713/Leetcode/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/Nishchal0713/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Nishchal0713/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Nishchal0713/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Nishchal0713/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Nishchal0713/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nishchal0713/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/Nishchal0713/Leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Nishchal0713/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nishchal0713/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Nishchal0713/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Nishchal0713/Leetcode/tree/master/0509-fibonacci-number) |
