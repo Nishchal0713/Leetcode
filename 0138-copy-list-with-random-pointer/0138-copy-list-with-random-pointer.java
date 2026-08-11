@@ -19,27 +19,26 @@ class Solution {
        {
             return null;
        }
-        HashMap<Node,Node> hehe= new HashMap<>();
+        HashMap<Node,Node> hehe=new HashMap<>();
         Node dummy=new Node(0);
         Node copy=dummy;
         Node kur=head;
         while (kur!=null) 
         {
-            copy.next = new Node(kur.val);
-            copy = copy.next;
+            copy.next=new Node(kur.val);
+            copy=copy.next;
             hehe.put(kur, copy);
-            kur = kur.next;
-        }
-        kur = head;
-        copy = dummy.next;
-
-        while (kur != null) {
-
-            if (kur.random != null)
-                copy.random = hehe.get(kur.random);
-
             kur=kur.next;
-            copy = copy.next;
+        }
+        kur=head;
+        copy=dummy.next;
+
+        while(kur!=null) 
+        {
+            if(kur.random!=null)
+                copy.random=hehe.get(kur.random);
+            kur=kur.next;
+            copy=copy.next;
         }
 
         return dummy.next; 
