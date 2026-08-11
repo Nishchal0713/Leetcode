@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nishchal0713/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Nishchal0713/Leetcode/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/Nishchal0713/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Nishchal0713/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nishchal0713/Leetcode/tree/master/0242-valid-anagram) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Nishchal0713/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Nishchal0713/Leetcode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Nishchal0713/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Nishchal0713/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
